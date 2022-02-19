@@ -13,3 +13,4 @@ design:
     image_darken: 0
     image: jump-omino1.png
 ---
+Omini charge!
