@@ -2,7 +2,7 @@
 title: "Bristol Pound"
 date: 2022-01-30T19:10:24+01:00
 draft: false
-weight: 5
+weight: 10 
 summary: "Lorem ipsum"
 
 tags:

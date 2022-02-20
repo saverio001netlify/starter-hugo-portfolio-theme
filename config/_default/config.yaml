@@ -81,3 +81,11 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+
+# Local NetiflyCMS
+backend:
+  name: git-gateway
+# when using the default proxy server port
+local_backend: true
+
