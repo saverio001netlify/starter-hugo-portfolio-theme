@@ -13,12 +13,12 @@ status:
   icon: ☕️
 
 # Organizations/Affiliations
-#organizations:
-#- name: 腾讯
-#  url: ""
+organizations:
+- name: "mariapangoli@hotmail.com"
+  url: "mailto:mariapangoli@hotmail.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Lorem Ipsum
+# bio: Lorem Ipsum
 
 #interests:
 #- Artificial Intelligence
@@ -44,10 +44,10 @@ bio: Lorem Ipsum
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'  # For a direct email link, use "mailto:test@example.org".
-- icon: instagram
-  icon_pack: fab
-  link: https://instagram.com/
+  link: 'mailto:mariapangoli@hotmail.com'  
+# - icon: instagram
+#   icon_pack: fab
+#   link: https://instagram.com/
 
 # Uncomment below for Github link
 #- icon: github
@@ -63,5 +63,14 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
+ My name is Maria.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a travel and tourism specialist and parallel to my carrer I developed an interest in visual arts especially involving the use of materials that can be molded in three dimensions. I work in a variety of mediums and with various techniques and I translates reality by re-elaborating images via my art.
+
+My work describes my state of mind in a specific moment and at the same time I finds encourgement to put life into perspective.
+
+In the past my work has been chosen by the global company adidas and exhibited in their store in Covent Garden, London, 10,000 copies of the  Bristol Pound poster I designed have been distributed in the UK, and my artwork ‘Europe’ was exhibited at the European Parliament in Brussels.
+
+I am open to meningful exchange an collaboration, get in touch!
+
+Ciao, Maria
