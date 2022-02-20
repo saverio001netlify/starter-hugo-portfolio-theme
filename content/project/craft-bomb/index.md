@@ -7,7 +7,7 @@ summary: "Lorem ipsum"
 tags:
 - STREET_ART
 ---
-{{< gallery album="street-art" >}}
+{{< gallery album="craft-bomb" >}}
 
 
 
