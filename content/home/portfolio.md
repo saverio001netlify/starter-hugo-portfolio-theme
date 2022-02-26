@@ -19,12 +19,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Street Art
-    tag: STREET_ART
+  - name: Paper Flowers
+    tag:  PAPER_FLOWERS
   - name: Case studies
-    tag: CASE_STUDIES
-  - name: Mixed media
-    tag: MIXED_MEDIA
+    tag:  CASE_STUDIES
+  - name: Illustrations
+    tag:  ILLUSTRATIONS
 
 design:
   columns: '1'

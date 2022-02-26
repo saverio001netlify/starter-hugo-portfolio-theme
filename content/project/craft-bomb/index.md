@@ -2,12 +2,12 @@
 title: "Craft Bomb"
 date: 2022-01-30T19:10:24+01:00
 draft: false
-weight: 10
-summary: "Lorem ipsum"
+weight: 2
+summary: " "
 tags:
-- STREET_ART
+- CASE_STUDIES
 ---
-{{< gallery album="craft-bomb" >}}
 
+![Craft Bomb](images/CraftBomb.jpg)
 
 
